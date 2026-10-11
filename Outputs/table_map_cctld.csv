@@ -1,0 +1,232 @@
+tld_clean,country,addresses,phishing_pct,iso_a2
+uk,United Kingdom,6395,5.04,GB
+co,Colombia,5408,91.53,CO
+io,British Indian Ocean Territory,4174,89.65,IO
+de,Germany,3994,17.13,DE
+ru,Russian Federation,3870,76.95,RU
+au,Australia,2979,12.52,AU
+jp,Japan,2219,6.17,JP
+it,Italy,1887,11.55,IT
+fr,France,1857,26.44,FR
+br,Brazil,1841,35.2,BR
+nl,Netherlands,1727,11.06,NL
+ca,Canada,1614,6.94,CA
+in,India,1378,38.9,IN
+pl,Poland,1329,59.52,PL
+cf,Central African Republic,1203,100.0,CF
+ga,Gabon,1111,99.64,GA
+us,United States,1107,38.75,US
+me,Montenegro,998,84.67,ME
+ml,Mali,994,99.9,ML
+cn,China,992,69.46,CN
+eu,European Union,978,28.94,EU
+id,Indonesia,801,69.79,ID
+es,Spain,704,18.04,ES
+se,Sweden,704,17.47,SE
+be,Belgium,696,10.63,BE
+nz,New Zealand,614,9.93,NZ
+cz,Czechia,587,9.71,CZ
+ch,Switzerland,560,11.25,CH
+ro,Romania,549,28.96,RO
+at,Austria,517,20.12,AT
+za,South Africa,508,25.79,ZA
+gr,Greece,500,12.6,GR
+gq,Equatorial Guinea,493,100.0,GQ
+mx,Mexico,491,42.77,MX
+ie,Ireland,468,1.92,IE
+no,Norway,402,3.23,NO
+cc,Cocos (Keeling) Islands,365,84.11,CC
+tr,Türkiye,361,25.48,TR
+ar,Argentina,357,34.73,AR
+ws,Samoa,351,90.88,WS
+ua,Ukraine,349,55.87,UA
+dk,Denmark,342,9.94,DK
+gd,Grenada,327,99.08,GD
+fi,Finland,323,5.88,FI
+cl,Chile,304,48.36,CL
+kr,"Korea, Republic of",295,28.14,KR
+il,Israel,282,9.22,IL
+pt,Portugal,281,22.42,PT
+hu,Hungary,279,19.71,HU
+tv,Tuvalu,277,16.25,TV
+sg,Singapore,274,14.23,SG
+vn,Viet Nam,260,56.15,VN
+ly,Libya,251,98.01,LY
+ir,"Iran, Islamic Republic of",249,72.69,IR
+tw,"Taiwan, Province of China",225,17.78,TW
+my,Malaysia,217,21.2,MY
+tk,Tokelau,209,98.09,TK
+sk,Slovakia,198,10.1,SK
+pk,Pakistan,181,40.88,PK
+hr,Croatia,173,4.62,HR
+si,Slovenia,171,10.53,SI
+lt,Lithuania,165,16.36,LT
+rs,Serbia,162,12.35,RS
+ph,Philippines,156,16.03,PH
+ng,Nigeria,152,50.0,NG
+hk,Hong Kong,149,16.11,HK
+ae,United Arab Emirates,142,35.92,AE
+bg,Bulgaria,137,4.38,BG
+ee,Estonia,124,12.9,EE
+th,Thailand,112,25.0,TH
+pe,Peru,112,59.82,PE
+sh,"Saint Helena, Ascension and Tristan da Cunha",110,88.18,SH
+is,Iceland,107,9.35,IS
+to,Tonga,102,81.37,TO
+am,Armenia,100,26.0,AM
+pw,Palau,97,96.91,PW
+ht,Haiti,91,92.31,HT
+gy,Guyana,83,92.77,GY
+ke,Kenya,81,39.51,KE
+kz,Kazakhstan,81,55.56,KZ
+lv,Latvia,80,23.75,LV
+gp,Guadeloupe,80,98.75,GP
+nu,Niue,78,55.13,NU
+su,Soviet Union (legacy),78,84.62,SU
+fm,"Micronesia, Federated States of",76,9.21,FM
+lu,Luxembourg,74,21.62,LU
+lk,Sri Lanka,68,10.29,LK
+ai,Anguilla,64,18.75,AI
+by,Belarus,62,37.1,BY
+lc,Saint Lucia,62,96.77,LC
+ug,Uganda,62,33.87,UG
+az,Azerbaijan,61,22.95,AZ
+np,Nepal,61,31.15,NP
+bd,Bangladesh,56,28.57,BD
+uy,Uruguay,55,23.64,UY
+ba,Bosnia and Herzegovina,55,21.82,BA
+li,Liechtenstein,52,75.0,LI
+ma,Morocco,52,32.69,MA
+ge,Georgia,50,28.0,GE
+la,Lao People's Democratic Republic,50,78.0,LA
+tz,"Tanzania, United Republic of",50,26.0,TZ
+ec,Ecuador,48,20.83,EC
+do,Dominican Republic,47,63.83,DO
+mt,Malta,46,54.35,MT
+bz,Belize,45,75.56,BZ
+gg,Guernsey,43,55.81,GG
+sa,Saudi Arabia,42,28.57,SA
+zw,Zimbabwe,39,46.15,ZW
+al,Albania,39,35.9,AL
+tn,Tunisia,37,75.68,TN
+cy,Cyprus,35,14.29,CY
+re,Réunion,34,82.35,RE
+cr,Costa Rica,32,43.75,CR
+cx,Christmas Island,32,90.62,CX
+md,"Moldova, Republic of",29,10.34,MD
+mn,Mongolia,29,44.83,MN
+im,Isle of Man,29,37.93,IM
+st,Sao Tome and Principe,28,75.0,ST
+vu,Vanuatu,28,92.86,VU
+py,Paraguay,27,44.44,PY
+tc,Turks and Caicos Islands,27,88.89,TC
+ps,"Palestine, State of",24,25.0,PS
+ms,Montserrat,24,100.0,MS
+bo,"Bolivia, Plurinational State of",24,25.0,BO
+lb,Lebanon,23,0.0,LB
+qa,Qatar,23,39.13,QA
+eg,Egypt,23,34.78,EG
+tl,Timor-Leste,22,90.91,TL
+pm,Saint Pierre and Miquelon,22,86.36,PM
+uz,Uzbekistan,22,31.82,UZ
+mk,North Macedonia,21,19.05,MK
+kh,Cambodia,20,5.0,KH
+vg,"Virgin Islands, British",20,95.0,VG
+cm,Cameroon,19,73.68,CM
+na,Namibia,19,0.0,NA
+sv,El Salvador,18,11.11,SV
+ac,Ascension Island,18,50.0,AC
+mu,Mauritius,18,27.78,MU
+fo,Faroe Islands,17,47.06,FO
+kg,Kyrgyzstan,17,47.06,KG
+sn,Senegal,17,64.71,SN
+gt,Guatemala,17,23.53,GT
+cu,Cuba,16,0.0,CU
+bw,Botswana,16,12.5,BW
+bt,Bhutan,16,0.0,BT
+ve,"Venezuela, Bolivarian Republic of",16,18.75,VE
+hn,Honduras,15,26.67,HN
+mz,Mozambique,15,53.33,MZ
+vc,Saint Vincent and the Grenadines,15,20.0,VC
+jo,Jordan,14,21.43,JO
+lr,Liberia,14,71.43,LR
+zm,Zambia,13,30.77,ZM
+bh,Bahrain,12,8.33,BH
+je,Jersey,12,58.33,JE
+mv,Maldives,12,0.0,MV
+pa,Panama,12,8.33,PA
+om,Oman,12,0.0,OM
+ky,Cayman Islands,11,0.0,KY
+mm,Myanmar,11,9.09,MM
+gh,Ghana,11,9.09,GH
+gs,South Georgia and the South Sandwich Islands,11,72.73,GS
+jm,Jamaica,11,9.09,JM
+so,Somalia,10,60.0,SO
+gi,Gibraltar,10,10.0,GI
+ad,Andorra,10,0.0,AD
+bm,Bermuda,10,0.0,BM
+af,Afghanistan,10,20.0,AF
+fj,Fiji,9,0.0,FJ
+rw,Rwanda,9,11.11,RW
+pg,Papua New Guinea,9,0.0,PG
+ni,Nicaragua,9,0.0,NI
+iq,Iraq,9,33.33,IQ
+ax,Åland Islands,8,12.5,AX
+ag,Antigua and Barbuda,8,37.5,AG
+bb,Barbados,8,0.0,BB
+mg,Madagascar,8,25.0,MG
+tm,Turkmenistan,8,50.0,TM
+tg,Togo,8,50.0,TG
+dz,Algeria,8,37.5,DZ
+tj,Tajikistan,7,14.29,TJ
+cv,Cabo Verde,7,28.57,CV
+cd,"Congo, The Democratic Republic of the",7,28.57,CD
+nf,Norfolk Island,7,100.0,NF
+as,American Samoa,6,50.0,AS
+tt,Trinidad and Tobago,6,0.0,TT
+kw,Kuwait,6,16.67,KW
+sc,Seychelles,6,16.67,SC
+ci,Côte d'Ivoire,6,16.67,CI
+ao,Angola,6,16.67,AO
+dj,Djibouti,6,50.0,DJ
+ls,Lesotho,5,0.0,LS
+gl,Greenland,5,80.0,GL
+mc,Monaco,5,0.0,MC
+sb,Solomon Islands,5,20.0,SB
+sd,Sudan,5,80.0,SD
+sy,Syrian Arab Republic,4,25.0,SY
+sr,Suriname,4,25.0,SR
+pn,Pitcairn,4,25.0,PN
+ki,Kiribati,4,50.0,KI
+sz,Eswatini,4,0.0,SZ
+tf,French Southern Territories,3,66.67,TF
+sx,Sint Maarten (Dutch part),3,66.67,SX
+dm,Dominica,3,0.0,DM
+sm,San Marino,3,0.0,SM
+mw,Malawi,3,66.67,MW
+kn,Saint Kitts and Nevis,3,0.0,KN
+nc,New Caledonia,3,0.0,NC
+ck,Cook Islands,3,0.0,CK
+bf,Burkina Faso,3,0.0,BF
+bs,Bahamas,2,0.0,BS
+fk,Falkland Islands (Malvinas),2,0.0,FK
+bi,Burundi,2,0.0,BI
+bn,Brunei Darussalam,2,0.0,BN
+bj,Benin,2,0.0,BJ
+aw,Aruba,2,0.0,AW
+mr,Mauritania,2,50.0,MR
+gf,French Guiana,2,100.0,GF
+et,Ethiopia,2,0.0,ET
+yt,Mayotte,2,100.0,YT
+pf,French Polynesia,2,0.0,PF
+mo,Macao,2,0.0,MO
+va,Holy See (Vatican City State),2,0.0,VA
+aq,Antarctica,1,0.0,AQ
+nr,Nauru,1,100.0,NR
+ne,Niger,1,0.0,NE
+mp,Northern Mariana Islands,1,0.0,MP
+mq,Martinique,1,0.0,MQ
+ss,South Sudan,1,0.0,SS
+vi,"Virgin Islands, U.S.",1,0.0,VI
+ye,Yemen,1,0.0,YE
+wf,Wallis and Futuna,1,0.0,WF

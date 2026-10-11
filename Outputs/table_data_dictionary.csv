@@ -1,0 +1,58 @@
+STT,cot,nhom,kieu,y_nghia,don_vi,so_gia_tri_khac_nhau
+1,FILENAME,văn bản,str,Tên tệp HTML đã lưu của trang,chữ,235795
+2,URL,văn bản,str,Địa chỉ web đầy đủ,chữ,235370
+3,URLLength,địa chỉ,int64,Độ dài địa chỉ do tác giả tính,ký tự,482
+4,Domain,văn bản,str,"Tên miền đầy đủ, gồm cả www. nếu có",chữ,220086
+5,DomainLength,địa chỉ,int64,Độ dài tên miền,ký tự,101
+6,IsDomainIP,địa chỉ,int64,Tên miền là địa chỉ IP,0 hoặc 1,2
+7,TLD,văn bản,str,"Tên miền cấp cao, phần sau dấu chấm cuối của Domain",chữ,695
+8,URLSimilarityIndex,chỉ số tương đồng,float64,"Chỉ số tương đồng với danh sách địa chỉ hợp lệ, do tác giả dựng",0 tới 100,36360
+9,CharContinuationRate,địa chỉ,float64,Tỷ lệ chuỗi ký tự cùng loại liên tiếp dài nhất,0 tới 1,898
+10,TLDLegitimateProb,địa chỉ,float64,"Xác suất TLD là hợp lệ, tác giả tính từ thống kê",0 tới 1,465
+11,URLCharProb,địa chỉ,float64,"Xác suất trung bình của các ký tự, tác giả tính từ thống kê",0 tới 1,227421
+12,TLDLength,địa chỉ,int64,Độ dài TLD,ký tự,12
+13,NoOfSubDomain,địa chỉ,int64,Số tên miền phụ (www. cũng được đếm),số đếm,10
+14,HasObfuscation,địa chỉ,int64,Địa chỉ có ký tự bị mã hoá kiểu %xx,0 hoặc 1,2
+15,NoOfObfuscatedChar,địa chỉ,int64,Số ký tự bị mã hoá,số đếm,20
+16,ObfuscationRatio,địa chỉ,float64,Tỷ lệ ký tự bị mã hoá,0 tới 1,146
+17,NoOfLettersInURL,địa chỉ,int64,Số chữ cái trong địa chỉ do tác giả đếm,số đếm,421
+18,LetterRatioInURL,địa chỉ,float64,Số chữ cái chia URLLength,0 tới 1,709
+19,NoOfDegitsInURL,địa chỉ,int64,Số chữ số trong địa chỉ,số đếm,182
+20,DegitRatioInURL,địa chỉ,float64,Số chữ số chia URLLength,0 tới 1,575
+21,NoOfEqualsInURL,địa chỉ,int64,Số dấu =,số đếm,25
+22,NoOfQMarkInURL,địa chỉ,int64,Số dấu ?,số đếm,5
+23,NoOfAmpersandInURL,địa chỉ,int64,Số dấu &,số đếm,31
+24,NoOfOtherSpecialCharsInURL,địa chỉ,int64,Số ký tự đặc biệt khác,số đếm,74
+25,SpacialCharRatioInURL,địa chỉ,float64,Tỷ lệ ký tự đặc biệt,0 tới 1,240
+26,IsHTTPS,địa chỉ,int64,Địa chỉ dùng https,0 hoặc 1,2
+27,LineOfCode,trang,int64,Số dòng mã HTML,dòng,10738
+28,LargestLineLength,trang,int64,Độ dài dòng mã dài nhất,ký tự,26181
+29,HasTitle,trang,int64,Trang có tiêu đề,0 hoặc 1,2
+30,Title,văn bản,str,Tiêu đề của trang,chữ,197874
+31,DomainTitleMatchScore,trang,float64,Mức khớp giữa tên miền và tiêu đề,0 tới 100,152
+32,URLTitleMatchScore,trang,float64,Mức khớp giữa địa chỉ và tiêu đề,0 tới 100,497
+33,HasFavicon,trang,int64,Trang có biểu tượng favicon,0 hoặc 1,2
+34,Robots,trang,int64,Trang có tệp robots.txt,0 hoặc 1,2
+35,IsResponsive,trang,int64,Trang co giãn theo màn hình,0 hoặc 1,2
+36,NoOfURLRedirect,trang,int64,Trang có chuyển hướng sang địa chỉ khác,0 hoặc 1 trong tệp,2
+37,NoOfSelfRedirect,trang,int64,Trang có chuyển hướng về chính nó,0 hoặc 1 trong tệp,2
+38,HasDescription,trang,int64,Trang có thẻ mô tả,0 hoặc 1,2
+39,NoOfPopup,trang,int64,Số cửa sổ bật lên,số đếm,115
+40,NoOfiFrame,trang,int64,Số khung iframe,số đếm,119
+41,HasExternalFormSubmit,trang,int64,Biểu mẫu gửi dữ liệu ra tên miền khác,0 hoặc 1,2
+42,HasSocialNet,trang,int64,Trang có liên kết mạng xã hội,0 hoặc 1,2
+43,HasSubmitButton,trang,int64,Trang có nút gửi,0 hoặc 1,2
+44,HasHiddenFields,trang,int64,Trang có trường ẩn,0 hoặc 1,2
+45,HasPasswordField,trang,int64,Trang có ô mật khẩu,0 hoặc 1,2
+46,Bank,trang,int64,Trang có từ khoá về ngân hàng,0 hoặc 1,2
+47,Pay,trang,int64,Trang có từ khoá về thanh toán,0 hoặc 1,2
+48,Crypto,trang,int64,Trang có từ khoá về tiền mã hoá,0 hoặc 1,2
+49,HasCopyrightInfo,trang,int64,Trang có dòng bản quyền,0 hoặc 1,2
+50,NoOfImage,trang,int64,Số ảnh,số đếm,992
+51,NoOfCSS,trang,int64,Số tệp CSS,số đếm,209
+52,NoOfJS,trang,int64,Số tệp JavaScript,số đếm,253
+53,NoOfSelfRef,trang,int64,Số liên kết về chính trang,số đếm,1374
+54,NoOfEmptyRef,trang,int64,Số liên kết rỗng,số đếm,296
+55,NoOfExternalRef,trang,int64,Số liên kết ra ngoài,số đếm,1191
+56,label,nhãn,int64,"Nhãn gốc: 1 là hợp lệ, 0 là lừa đảo",0 hoặc 1,2
+57,phishing,nhãn,int64,Nhãn dùng trong đồ án: 1 là lừa đảo,0 hoặc 1,2

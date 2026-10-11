@@ -1,0 +1,5 @@
+feature_set,model,roc_auc_tuned,home_roc_auc_tuned,caught_tuned,home_caught_tuned,roc_auc_fixed,home_roc_auc_fixed,caught_fixed,home_caught_fixed,home_roc_auc_gain
+S4 address only,LightGBM,0.99884,0.99721,0.99641,0.99162,0.99889,0.99735,0.99651,0.99177,-0.00014
+S4 address only,Logistic,0.99842,0.99628,0.99475,0.98903,0.99847,0.99633,0.99497,0.98923,-5e-05
+S7 prefix blind,LightGBM,0.89386,0.73701,0.70137,0.26004,0.8938,0.73686,0.70144,0.2602,0.00015
+S7 prefix blind,Logistic,0.86428,0.66369,0.65865,0.15419,0.86412,0.66331,0.65767,0.15177,0.00038

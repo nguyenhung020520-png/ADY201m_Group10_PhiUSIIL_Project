@@ -1,0 +1,3 @@
+,"https://www., no path","https://www., with path","Other prefix, no path","Other prefix, with path"
+Legitimate,100.0,0.0,0.0,0.0
+Phishing,0.62,1.81,39.68,57.89

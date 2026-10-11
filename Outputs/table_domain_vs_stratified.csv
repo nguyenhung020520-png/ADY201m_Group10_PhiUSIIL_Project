@@ -1,0 +1,13 @@
+feature_set,model,caught_domain,caught_stratified,home_roc_auc_domain,home_roc_auc_stratified,roc_auc_domain,roc_auc_stratified,caught_drop
+S1 all features,LightGBM,1.0,1.0,1.0,1.0,1.0,1.0,0.0
+S1 all features,Logistic,0.99997,0.99999,1.0,1.0,1.0,1.0,2e-05
+S1 all features,Random forest,1.0,1.0,1.0,1.0,1.0,1.0,0.0
+S1 all features,Small MLP,0.99998,0.99999,1.0,1.0,1.0,1.0,1e-05
+S4 address only,LightGBM,0.99641,0.99651,0.99775,0.99735,0.999,0.99889,9e-05
+S4 address only,Logistic,0.99502,0.99497,0.99684,0.99633,0.99861,0.99847,-5e-05
+S4 address only,Random forest,0.99553,0.99548,0.99747,0.99697,0.9989,0.99874,-4e-05
+S4 address only,Small MLP,0.99661,0.99639,0.99701,0.99671,0.99873,0.99867,-0.00022
+S7 prefix blind,LightGBM,0.6927,0.70144,0.74088,0.73686,0.89131,0.8938,0.00874
+S7 prefix blind,Logistic,0.65198,0.65767,0.67009,0.66331,0.86122,0.86412,0.00569
+S7 prefix blind,Random forest,0.69158,0.70141,0.74097,0.73562,0.89125,0.8933,0.00983
+S7 prefix blind,Small MLP,0.69026,0.69951,0.74024,0.73568,0.89112,0.89332,0.00925

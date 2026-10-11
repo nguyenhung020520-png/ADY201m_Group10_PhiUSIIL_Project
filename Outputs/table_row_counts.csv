@@ -1,0 +1,11 @@
+STT,buoc,so_dong,so_cot,ghi_chu
+1,Tệp gốc PhiUSIIL_Phishing_URL_Dataset.csv,235795,56,Dữ liệu vào (cột phishing do nhóm thêm không tính)
+2,Dòng bị xoá vì ô trống hoặc giá trị ngoài miền,0,56,Không có dòng nào lỗi
+3,Dòng bị xoá vì URL trùng,425,56,Giữ lần xuất hiện đầu; cả 425 dòng đều là lừa đảo
+4,Bảng sau khi bỏ trùng,235370,56,"134.850 hợp lệ, 100.520 lừa đảo"
+5,Địa chỉ là trang chủ (nhóm khó),175363,1,Toàn bộ lớp hợp lệ và một phần lớp lừa đảo
+6,"Địa chỉ có TLD là com, org, net",138220,1,Phần huấn luyện của phép thử TLD chưa thấy
+7,Địa chỉ có TLD khác,97150,1,Phần chỉ dùng để thử
+8,"Tập huấn luyện, seed 0, chia phân tầng",141222,1,60%
+9,"Tập validation, seed 0, chia phân tầng",47074,1,"20%, chỉ dùng để đặt ngưỡng 1% báo động giả"
+10,"Tập kiểm thử, seed 0, chia phân tầng",47074,1,20%

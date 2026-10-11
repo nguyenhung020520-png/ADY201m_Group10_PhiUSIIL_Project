@@ -1,0 +1,16 @@
+feature,legitimate_mean,legitimate_median,phishing_mean,phishing_median,ti_so_trung_binh
+URLSimilarityIndex,100.0,100.0,49.651,51.479,0.497
+URLLength,26.229,26.0,45.703,34.0,1.742
+DomainLength,19.229,19.0,24.444,22.0,1.271
+NoOfSubDomain,1.162,1.0,1.169,1.0,1.007
+IsHTTPS,1.0,1.0,0.491,0.0,0.491
+NoOfLettersInURL,12.933,13.0,28.089,20.0,2.172
+DegitRatioInURL,0.002,0.0,0.064,0.0,30.226
+TLDLegitimateProb,0.282,0.523,0.232,0.018,0.824
+LineOfCode,1947.492,1105.0,65.606,12.0,0.034
+NoOfImage,44.947,25.0,0.864,0.0,0.019
+NoOfJS,17.733,14.0,0.888,0.0,0.05
+NoOfExternalRef,85.295,46.0,1.127,0.0,0.013
+HasSocialNet,0.795,1.0,0.005,0.0,0.006
+HasCopyrightInfo,0.808,1.0,0.057,0.0,0.071
+HasPasswordField,0.138,0.0,0.053,0.0,0.385

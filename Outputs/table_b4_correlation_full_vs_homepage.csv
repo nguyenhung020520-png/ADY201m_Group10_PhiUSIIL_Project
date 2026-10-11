@@ -1,0 +1,36 @@
+feature,toan_bo,trang_chu,nhom
+pb_has_path,0.678,,prefix blind
+pb_path_length,0.669,,prefix blind
+pb_specials,0.628,0.195,prefix blind
+NoOfOtherSpecialCharsInURL,0.612,0.195,address
+IsHTTPS,0.61,0.963,address
+pb_digits,0.541,0.299,prefix blind
+NoOfDegitsInURL,0.541,0.299,address
+DegitRatioInURL,0.536,0.299,address
+pb_digit_ratio,0.532,0.298,prefix blind
+SpacialCharRatioInURL,0.527,0.213,address
+pb_letter_ratio,0.52,0.202,prefix blind
+pb_length,0.481,0.059,prefix blind
+CharContinuationRate,0.469,0.212,address
+URLCharProb,0.459,0.219,address
+pb_host_dots,0.455,0.172,prefix blind
+NoOfLettersInURL,0.414,0.02,address
+URLLength,0.397,0.018,address
+pb_letters,0.387,0.001,prefix blind
+LetterRatioInURL,0.368,0.051,address
+pb_hyphens,0.367,0.14,prefix blind
+pb_host_length,0.331,0.059,prefix blind
+DomainLength,0.213,0.041,address
+TLDLegitimateProb,0.197,0.124,address
+NoOfQMarkInURL,0.189,0.008,address
+pb_equals,0.179,0.006,prefix blind
+NoOfEqualsInURL,0.177,0.006,address
+NoOfAmpersandInURL,0.071,,address
+IsDomainIP,0.06,0.013,address
+pb_host_is_ip,0.059,0.012,prefix blind
+TLDLength,0.054,0.026,address
+pb_tld_length,0.054,0.026,prefix blind
+HasObfuscation,0.053,,address
+NoOfObfuscatedChar,0.053,,address
+ObfuscationRatio,0.053,,address
+NoOfSubDomain,0.033,0.104,address

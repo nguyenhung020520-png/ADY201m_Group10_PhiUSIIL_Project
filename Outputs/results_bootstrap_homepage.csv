@@ -1,0 +1,11 @@
+model,home_roc_auc,ci_low,ci_high
+LightGBM,0.7347,0.7278,0.741
+XGBoost,0.7346,0.7282,0.7409
+HistGB,0.7345,0.7283,0.7411
+Decision tree,0.7334,0.7269,0.7407
+Random forest,0.7329,0.726,0.7389
+Small MLP,0.7328,0.7261,0.7396
+Extra trees,0.7277,0.7212,0.7347
+k-NN,0.7097,0.703,0.7174
+Linear SVM,0.6643,0.6564,0.6724
+Logistic,0.6635,0.6562,0.6709

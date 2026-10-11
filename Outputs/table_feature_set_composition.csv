@@ -1,0 +1,8 @@
+feature_set,Similarity index,"Address, prefix-aware","Address, TLD statistics","Address, other",Page,Prefix-blind (ours)
+S1 all features,1,2,2,17,28,0
+S2 without similarity index,0,2,2,17,28,0
+S3 address and similarity index,1,2,2,17,0,0
+S4 address only,0,2,2,17,0,0
+S5 address without TLD statistics,0,2,0,17,0,0
+S6 page only,0,0,0,0,28,0
+S7 prefix blind,0,0,0,0,0,14

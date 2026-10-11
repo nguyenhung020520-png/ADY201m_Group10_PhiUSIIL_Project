@@ -1,0 +1,33 @@
+hang_lua_dao,country,tld_clean,so_dia_chi,lua_dao_pct,nhom_ba
+1,Central African Republic,cf,1203,100.0,1
+2,Mali,ml,994,99.9,1
+3,Gabon,ga,1111,99.6,1
+4,Colombia,co,5408,91.5,1
+5,British Indian Ocean Territory,io,4174,89.7,1
+6,Montenegro,me,998,84.7,1
+7,Russian Federation,ru,3870,77.0,1
+8,Indonesia,id,801,69.8,1
+9,China,cn,992,69.5,1
+10,Poland,pl,1329,59.5,1
+11,India,in,1378,38.9,1
+12,United States,us,1107,38.8,2
+13,Brazil,br,1841,35.2,2
+14,Romania,ro,549,29.0,2
+15,European Union,eu,978,28.9,2
+16,France,fr,1857,26.4,2
+17,South Africa,za,508,25.8,2
+18,Austria,at,517,20.1,2
+19,Spain,es,704,18.0,2
+20,Sweden,se,704,17.5,2
+21,Germany,de,3994,17.1,2
+22,Greece,gr,500,12.6,2
+23,Australia,au,2979,12.5,3
+24,Italy,it,1887,11.6,3
+25,Switzerland,ch,560,11.3,3
+26,Netherlands,nl,1727,11.1,3
+27,Belgium,be,696,10.6,3
+28,New Zealand,nz,614,9.9,3
+29,Czechia,cz,587,9.7,3
+30,Canada,ca,1614,6.9,3
+31,Japan,jp,2219,6.2,3
+32,United Kingdom,uk,6395,5.0,3

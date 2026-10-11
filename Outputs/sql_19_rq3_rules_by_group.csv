@@ -1,0 +1,6 @@
+nhom,so_dia_chi,lua_dao_pct,tien_to_bat_duoc_pct,tien_to_bao_dong_gia_pct,khong_https_bat_duoc_pct,chi_so_bat_duoc_pct,chi_so_bao_dong_gia_pct
+A all addresses,235370,42.7,97.57,0.0,50.88,99.22,0.0
+B homepage only,175363,23.1,98.45,0.0,94.39,98.13,0.0
+C unseen TLDs,97150,53.1,97.69,0.0,47.34,99.51,0.0
+"D homepage only, unseen TLDs",63784,28.6,98.09,0.0,91.35,98.66,0.0
+"E domain split test, seed 0",43431,37.8,96.91,0.0,64.08,98.91,0.0

@@ -1,0 +1,9 @@
+check,legitimate_pct,phishing_pct
+No image,0.96,83.53
+No JavaScript file,1.06,77.23
+No CSS file,1.97,80.41
+Fewer than 50 lines of HTML,0.0,68.25
+Has a title,99.88,67.72
+Has a submit button,66.09,8.44
+Has a password field,13.85,5.33
+Has copyright text,80.82,5.72

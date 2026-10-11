@@ -1,0 +1,51 @@
+cot,nhom,nho_nhat,lon_nhat,so_gia_tri_khac_nhau,am,chi_0_1,ty_le_bang_0_pct
+URLSimilarityIndex,chỉ số tương đồng,0.155574352,100.0,36350,0,False,0.0
+URLLength,địa chỉ,13.0,6097.0,482,0,False,0.0
+DomainLength,địa chỉ,4.0,110.0,101,0,False,0.0
+IsDomainIP,địa chỉ,0.0,1.0,2,0,True,99.7
+CharContinuationRate,địa chỉ,0.0,1.0,898,0,False,0.0
+TLDLegitimateProb,địa chỉ,0.0,0.5229071,465,0,False,0.3
+URLCharProb,địa chỉ,0.001082764,0.090823664,227293,0,False,0.0
+TLDLength,địa chỉ,2.0,13.0,12,0,False,0.0
+NoOfSubDomain,địa chỉ,0.0,10.0,10,0,False,5.9
+HasObfuscation,địa chỉ,0.0,1.0,2,0,True,99.8
+NoOfObfuscatedChar,địa chỉ,0.0,447.0,20,0,False,99.8
+ObfuscationRatio,địa chỉ,0.0,0.348,146,0,False,99.8
+NoOfLettersInURL,địa chỉ,0.0,5191.0,421,0,False,0.0
+LetterRatioInURL,địa chỉ,0.0,0.926,709,0,False,0.0
+NoOfDegitsInURL,địa chỉ,0.0,2011.0,182,0,False,78.2
+DegitRatioInURL,địa chỉ,0.0,0.684,575,0,False,78.2
+NoOfEqualsInURL,địa chỉ,0.0,176.0,25,0,False,97.7
+NoOfQMarkInURL,địa chỉ,0.0,4.0,5,0,False,97.4
+NoOfAmpersandInURL,địa chỉ,0.0,149.0,31,0,False,99.6
+NoOfOtherSpecialCharsInURL,địa chỉ,0.0,499.0,74,0,False,0.0
+SpacialCharRatioInURL,địa chỉ,0.0,0.397,240,0,False,0.0
+IsHTTPS,địa chỉ,0.0,1.0,2,0,True,21.7
+LineOfCode,trang,2.0,442666.0,10738,0,False,0.0
+LargestLineLength,trang,22.0,13975732.0,26178,0,False,0.0
+HasTitle,trang,0.0,1.0,2,0,True,13.9
+DomainTitleMatchScore,trang,0.0,100.0,152,0,False,48.1
+URLTitleMatchScore,trang,0.0,100.0,497,0,False,45.4
+HasFavicon,trang,0.0,1.0,2,0,True,63.8
+Robots,trang,0.0,1.0,2,0,True,73.3
+IsResponsive,trang,0.0,1.0,2,0,True,37.5
+NoOfURLRedirect,trang,0.0,1.0,2,0,True,86.7
+NoOfSelfRedirect,trang,0.0,1.0,2,0,True,96.0
+HasDescription,trang,0.0,1.0,2,0,True,55.9
+NoOfPopup,trang,0.0,602.0,115,0,False,94.3
+NoOfiFrame,trang,0.0,1602.0,119,0,False,66.6
+HasExternalFormSubmit,trang,0.0,1.0,2,0,True,95.6
+HasSocialNet,trang,0.0,1.0,2,0,True,54.3
+HasSubmitButton,trang,0.0,1.0,2,0,True,58.5
+HasHiddenFields,trang,0.0,1.0,2,0,True,62.2
+HasPasswordField,trang,0.0,1.0,2,0,True,89.8
+Bank,trang,0.0,1.0,2,0,True,87.3
+Pay,trang,0.0,1.0,2,0,True,76.3
+Crypto,trang,0.0,1.0,2,0,True,97.7
+HasCopyrightInfo,trang,0.0,1.0,2,0,True,51.2
+NoOfImage,trang,0.0,8956.0,992,0,False,36.2
+NoOfCSS,trang,0.0,35820.0,209,0,False,35.5
+NoOfJS,trang,0.0,6957.0,253,0,False,33.6
+NoOfSelfRef,trang,0.0,27397.0,1374,0,False,35.7
+NoOfEmptyRef,trang,0.0,4887.0,296,0,False,69.2
+NoOfExternalRef,trang,0.0,27516.0,1191,0,False,23.6

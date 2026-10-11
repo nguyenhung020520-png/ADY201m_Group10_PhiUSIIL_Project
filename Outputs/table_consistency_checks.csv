@@ -1,0 +1,11 @@
+,legitimate_pct,phishing_pct,toan_bo_pct
+DomainLength bằng độ dài Domain,100.0,100.0,100.0
+TLD bằng phần cuối của Domain,100.0,100.0,100.0
+TLDLength bằng độ dài TLD,100.0,100.0,100.0
+NoOfSubDomain bằng số dấu chấm của Domain trừ 1,100.0,100.0,100.0
+IsHTTPS khớp với tiền tố https://,100.0,99.51,99.79
+URLLength bằng độ dài URL,0.0,48.18,20.58
+URLLength bằng độ dài URL trừ 1,100.0,51.82,79.42
+NoOfDegitsInURL bằng số chữ số đếm lại,100.0,98.8,99.49
+NoOfLettersInURL bằng số chữ cái đếm lại (bỏ http://),0.0,50.63,21.62
+URL không có chữ in hoa,100.0,100.0,100.0

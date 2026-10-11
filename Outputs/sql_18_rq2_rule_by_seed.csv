@@ -1,0 +1,8 @@
+seed,dia_chi_kiem_thu,do_chinh_xac_tien_to_pct,bat_duoc_tien_to_pct,bao_dong_gia_pct,do_chinh_xac_tien_to_hoac_duong_dan_pct,bat_duoc_tien_to_hoac_duong_dan_pct
+split_s0,47074.0,98.94,97.51,0.0,99.72,99.34
+split_s1,47074.0,98.97,97.58,0.0,99.7,99.31
+split_s2,47074.0,98.97,97.58,0.0,99.72,99.35
+split_s3,47074.0,99.01,97.69,0.0,99.73,99.36
+split_s4,47074.0,98.93,97.5,0.0,99.72,99.33
+mean,47074.0,98.96,97.57,0.0,99.72,99.34
+sd,,0.032,0.076,0.0,0.008,0.02

@@ -1,0 +1,27 @@
+paper_section,quantity,value
+Method,test addresses per seed,47074
+Method,test homepage addresses per seed,35194
+Results,rule prefix-or-path accuracy (%),99.72
+Results,rule prefix-or-path caught (%),99.34
+Results,rule prefix accuracy (%),98.96
+Results,S1 ROC-AUC range across models,0.9999 to 1.0000
+Results,S1 accuracy range across models (%),99.89 to 100.00
+Results,"S1 caught at 1% false alarms, range (%)",99.97 to 100.00
+Results,"S7 ROC-AUC on all test addresses, best model",0.8939
+Results,"S7 ROC-AUC on homepage-only test addresses, range",0.6633 to 0.7371
+Results,"S7 caught at 1% false alarms on homepage-only addresses, best (%)",26.02
+Results,S1 all features: mean ROC-AUC / best caught (%) / best homepage caught (%),1.0000 / 100.00 / 100.00
+Results,S2 without similarity index: mean ROC-AUC / best caught (%) / best homepage caught (%),0.9999 / 100.00 / 100.00
+Results,S3 address and similarity index: mean ROC-AUC / best caught (%) / best homepage caught (%),0.9999 / 99.99 / 99.97
+Results,S4 address only: mean ROC-AUC / best caught (%) / best homepage caught (%),0.9984 / 99.65 / 99.18
+Results,S5 address without TLD statistics: mean ROC-AUC / best caught (%) / best homepage caught (%),0.9982 / 99.64 / 99.12
+Results,S6 page only: mean ROC-AUC / best caught (%) / best homepage caught (%),0.9996 / 99.94 / 99.91
+Results,S7 prefix blind: mean ROC-AUC / best caught (%) / best homepage caught (%),0.8863 / 70.14 / 26.02
+Results,"models significantly better than the two-condition rule after Holm (S1, seed 0, default threshold)",10
+Results,"test errors of the two-condition rule and of the models (S1, seed 0, default threshold)",132 vs 0 to 46
+Results,S1 best model by accuracy,LightGBM
+Results,"S7 homepage ROC-AUC, best model with 95% bootstrap CI","LightGBM: 0.7347 [0.7278, 0.7410]"
+Supplement 1,largest drop in caught when moving to the domain split (points),0.98
+Supplement 2,largest homepage ROC-AUC gain from tuning,0.0004
+Supplement 3,"false alarms on unseen TLDs, range over models and sets (%)",0.45 to 43.55
+Supplement 4,S4 smallest and largest model (kB),2.4 and 24275

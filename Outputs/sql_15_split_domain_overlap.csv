@@ -1,0 +1,11 @@
+loai_chia,cach_chia,dia_chi_kiem_thu,lua_dao_pct,ten_mien_da_gap_pct,ten_mien_da_gap_lua_dao_pct
+stratified,split_s0,47074,42.71,27.3,58.97
+stratified,split_s1,47074,42.71,27.48,59.68
+stratified,split_s2,47074,42.71,27.33,59.36
+stratified,split_s3,47074,42.71,27.18,58.97
+stratified,split_s4,47074,42.71,27.66,59.78
+domain split,gsplit_s0,43431,37.82,0.0,0.0
+domain split,gsplit_s1,56099,51.62,0.0,0.0
+domain split,gsplit_s2,49610,46.65,0.0,0.0
+domain split,gsplit_s3,41882,35.78,0.0,0.0
+domain split,gsplit_s4,48549,43.47,0.0,0.0

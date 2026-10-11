@@ -1,0 +1,4 @@
+nhom,lop,so_dia_chi,p05,p25,p50,p75,p95,lon_nhat
+homepage only,legitimate,134850,8.0,12.0,15.0,18.0,24.0,46
+homepage only,phishing,40513,9.0,12.0,15.0,20.0,35.0,101
+has a path,phishing,60007,16.0,26.0,35.0,55.0,113.0,6089

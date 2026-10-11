@@ -1,0 +1,7 @@
+lop,tien_to_ten_tep,so_dia_chi,lech_tru_1,lech_0,lech_khac,lech_tru_1_pct
+legitimate,digits only,134850,134850,0,0,100.0
+phishing,digits only,55021,21308,33711,2,38.7
+phishing,mw,36283,28610,7673,0,78.9
+phishing,oph,8288,1530,6758,0,18.5
+phishing,op,548,262,286,0,47.8
+phishing,m,380,380,0,0,100.0

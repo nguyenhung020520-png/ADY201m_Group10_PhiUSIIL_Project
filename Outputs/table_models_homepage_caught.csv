@@ -1,0 +1,11 @@
+model,S1 all features,S2 without similarity index,S3 address and similarity index,S4 address only,S5 address without TLD statistics,S6 page only,S7 prefix blind
+XGBoost,100.0,100.0,99.97,99.13,99.07,99.9,26.02
+LightGBM,100.0,100.0,99.97,99.18,99.09,99.91,26.02
+Random forest,100.0,100.0,99.96,99.09,99.04,99.86,26.01
+Decision tree,100.0,99.96,99.96,98.93,98.95,99.75,25.95
+HistGB,100.0,100.0,99.96,99.11,99.07,99.9,25.86
+Small MLP,100.0,100.0,99.96,99.11,99.12,99.86,25.55
+Extra trees,100.0,99.98,99.96,99.0,98.98,98.83,24.98
+k-NN,99.96,99.96,99.8,98.99,99.01,99.43,23.03
+Linear SVM,100.0,100.0,99.97,99.07,99.07,99.76,15.26
+Logistic,100.0,100.0,99.96,98.92,98.94,99.76,15.18

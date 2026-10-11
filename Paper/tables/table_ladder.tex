@@ -1,0 +1,18 @@
+\begin{table}[t]
+\centering
+\caption{Feature ladder: mean ROC-AUC over ten models and best share of phishing caught at 1\% false alarms, on all test addresses and on homepage-only addresses.}
+\label{tab:ladder}
+\begin{tabular}{lrrrrr}
+\toprule
+Model & Features & ROC-AUC & Caught (\%) & Home ROC-AUC & Home caught (\%) \\
+\midrule
+S1 all features & 50 & 1.0000 & 100.00 & 1.0000 & 100.00 \\
+S2 without similarity index & 49 & 0.9999 & 100.00 & 0.9999 & 100.00 \\
+S3 address and similarity index & 22 & 0.9999 & 99.99 & 0.9997 & 99.97 \\
+S4 address only & 21 & 0.9984 & 99.65 & 0.9965 & 99.18 \\
+S5 address without TLD statistics & 19 & 0.9982 & 99.64 & 0.9960 & 99.12 \\
+S6 page only & 28 & 0.9996 & 99.94 & 0.9995 & 99.91 \\
+S7 prefix blind & 14 & 0.8863 & 70.14 & 0.7183 & 26.02 \\
+\bottomrule
+\end{tabular}
+\end{table}

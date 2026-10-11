@@ -1,0 +1,65 @@
+feature,nhom,trung_binh,do_lech_chuan,nho_nhat,trung_vi,lon_nhat,tuong_quan_hang_voi_nhan,so_gia_tri_khac_nhau
+URLSimilarityIndex,chỉ số tương đồng,78.4975,28.9479,0.1556,100.0,100.0,-0.9453,36350
+URLLength,địa chỉ,34.5455,41.3327,13.0,27.0,6097.0,0.3974,482
+DomainLength,địa chỉ,21.456,9.1277,4.0,20.0,110.0,0.2127,101
+IsDomainIP,địa chỉ,0.0027,0.0519,0.0,0.0,1.0,0.0603,2
+CharContinuationRate,địa chỉ,0.8459,0.2164,0.0,1.0,1.0,-0.4694,898
+TLDLegitimateProb,địa chỉ,0.2605,0.2516,0.0,0.08,0.5229,-0.1975,465
+URLCharProb,địa chỉ,0.0558,0.0106,0.0011,0.058,0.0908,-0.4586,227293
+TLDLength,địa chỉ,2.7643,0.5997,2.0,3.0,13.0,0.0541,12
+NoOfSubDomain,địa chỉ,1.165,0.6007,0.0,1.0,10.0,-0.033,10
+HasObfuscation,địa chỉ,0.0021,0.0453,0.0,0.0,1.0,0.0525,2
+NoOfObfuscatedChar,địa chỉ,0.0249,1.8779,0.0,0.0,447.0,0.0525,20
+ObfuscationRatio,địa chỉ,0.0001,0.0038,0.0,0.0,0.348,0.0525,146
+NoOfLettersInURL,địa chỉ,19.4056,29.0995,0.0,14.0,5191.0,0.4144,421
+LetterRatioInURL,địa chỉ,0.5157,0.1232,0.0,0.519,0.926,0.3678,709
+NoOfDegitsInURL,địa chỉ,1.8757,11.8925,0.0,0.0,2011.0,0.5406,182
+DegitRatioInURL,địa chỉ,0.0285,0.0708,0.0,0.0,0.684,0.5361,575
+NoOfEqualsInURL,địa chỉ,0.0623,0.9355,0.0,0.0,176.0,0.1774,25
+NoOfQMarkInURL,địa chỉ,0.0294,0.1936,0.0,0.0,4.0,0.1893,5
+NoOfAmpersandInURL,địa chỉ,0.0251,0.8372,0.0,0.0,149.0,0.0711,31
+NoOfOtherSpecialCharsInURL,địa chỉ,2.336,3.5276,0.0,1.0,499.0,0.6116,74
+SpacialCharRatioInURL,địa chỉ,0.0632,0.0324,0.0,0.05,0.397,0.5265,240
+IsHTTPS,địa chỉ,0.7827,0.4124,0.0,1.0,1.0,-0.6103,2
+LineOfCode,trang,1143.7906,3422.7423,2.0,431.0,442666.0,-0.8408,10738
+LargestLineLength,trang,12644.2814,148924.7074,22.0,1091.0,13975732.0,-0.543,26178
+HasTitle,trang,0.8614,0.3455,0.0,1.0,1.0,-0.4603,2
+DomainTitleMatchScore,trang,50.2148,49.6763,0.0,75.0,100.0,-0.569,152
+URLTitleMatchScore,trang,52.1972,49.5969,0.0,100.0,100.0,-0.5246,497
+HasFavicon,trang,0.3622,0.4806,0.0,0.0,1.0,-0.4936,2
+Robots,trang,0.2669,0.4423,0.0,0.0,1.0,-0.3925,2
+IsResponsive,trang,0.6249,0.4842,0.0,1.0,1.0,-0.549,2
+NoOfURLRedirect,trang,0.1334,0.34,0.0,0.0,1.0,0.0464,2
+NoOfSelfRedirect,trang,0.0401,0.1963,0.0,0.0,1.0,0.0768,2
+HasDescription,trang,0.4409,0.4965,0.0,0.0,1.0,-0.69,2
+NoOfPopup,trang,0.2221,3.874,0.0,0.0,602.0,-0.1928,115
+NoOfiFrame,trang,1.5913,5.7674,0.0,0.0,1602.0,-0.5205,119
+HasExternalFormSubmit,trang,0.0441,0.2052,0.0,0.0,1.0,-0.1674,2
+HasSocialNet,trang,0.4574,0.4982,0.0,0.0,1.0,-0.7839,2
+HasSubmitButton,trang,0.4147,0.4927,0.0,0.0,1.0,-0.5788,2
+HasHiddenFields,trang,0.3782,0.4849,0.0,0.0,1.0,-0.5077,2
+HasPasswordField,trang,0.1021,0.3028,0.0,0.0,1.0,-0.1392,2
+Bank,trang,0.1272,0.3332,0.0,0.0,1.0,-0.1889,2
+Pay,trang,0.2372,0.4254,0.0,0.0,1.0,-0.3597,2
+Crypto,trang,0.0235,0.1515,0.0,0.0,1.0,-0.0997,2
+HasCopyrightInfo,trang,0.4875,0.4998,0.0,0.0,1.0,-0.7432,2
+NoOfImage,trang,26.1202,79.4764,0.0,9.0,8956.0,-0.8422,992
+NoOfCSS,trang,6.3433,74.9335,0.0,2.0,35820.0,-0.8032,209
+NoOfJS,trang,10.5387,22.3287,0.0,6.0,6957.0,-0.8228,253
+NoOfSelfRef,trang,65.1878,176.8256,0.0,12.0,27397.0,-0.8288,1374
+NoOfEmptyRef,trang,2.3812,17.6565,0.0,0.0,4887.0,-0.5151,296
+NoOfExternalRef,trang,49.3489,161.1599,0.0,10.0,27516.0,-0.8423,1191
+pb_length,không thấy tiền tố,24.5586,41.7825,4.0,17.0,6089.0,0.4809,477
+pb_host_length,không thấy tiền tố,18.4544,9.8433,4.0,16.0,110.0,0.3307,99
+pb_path_length,không thấy tiền tố,6.1028,40.0405,0.0,0.0,6068.0,0.6693,453
+pb_has_path,không thấy tiền tố,0.2549,0.4358,0.0,0.0,1.0,0.6775,2
+pb_host_dots,không thấy tiền tố,1.4147,0.6775,1.0,1.0,11.0,0.4552,10
+pb_hyphens,không thấy tiền tố,0.349,1.5219,0.0,0.0,286.0,0.3674,36
+pb_digits,không thấy tiền tố,1.8809,11.8989,0.0,0.0,2011.0,0.5414,183
+pb_letters,không thấy tiền tố,20.156,29.0816,0.0,15.0,5191.0,0.3866,415
+pb_specials,không thấy tiền tố,2.5217,5.0315,1.0,1.0,772.0,0.6276,91
+pb_equals,không thấy tiền tố,0.0634,0.9377,0.0,0.0,176.0,0.1788,25
+pb_tld_length,không thấy tiền tố,2.764,0.6006,2.0,3.0,24.0,0.054,16
+pb_host_is_ip,không thấy tiền tố,0.0026,0.0506,0.0,0.0,1.0,0.0588,2
+pb_digit_ratio,không thấy tiền tố,0.0371,0.0919,0.0,0.0,0.84,0.5322,3066
+pb_letter_ratio,không thấy tiền tố,0.8614,0.1101,0.0,0.9,0.9804,-0.5205,3233

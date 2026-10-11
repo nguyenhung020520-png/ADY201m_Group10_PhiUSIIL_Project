@@ -1,0 +1,24 @@
+\begin{table}[t]
+\centering
+\caption{Ten classifiers with all features against hand-written rules, test sets of five stratified splits (mean).}
+\label{tab:main}
+\begin{tabular}{lrrrr}
+\toprule
+Model & Accuracy (\%) & Caught at 1\% FA (\%) & ROC-AUC & Train (s) \\
+\midrule
+Rule: not https://www. & 98.96 & 97.57 & -- & 0.0 \\
+Rule: not https://www. or has a path & 99.72 & 99.34 & -- & 0.0 \\
+Rule: similarity index < 100 & 99.68 & 99.25 & -- & 0.0 \\
+Logistic & 99.99 & 100.00 & 1.0000 & 0.9 \\
+Linear SVM & 99.99 & 100.00 & 1.0000 & 1.4 \\
+k-NN & 99.89 & 99.97 & 0.9999 & 0.4 \\
+Decision tree & 100.00 & 100.00 & 1.0000 & 0.7 \\
+Random forest & 100.00 & 100.00 & 1.0000 & 4.8 \\
+Extra trees & 99.99 & 100.00 & 1.0000 & 4.5 \\
+HistGB & 100.00 & 100.00 & 1.0000 & 2.8 \\
+LightGBM & 100.00 & 100.00 & 1.0000 & 2.0 \\
+XGBoost & 100.00 & 100.00 & 1.0000 & 5.1 \\
+Small MLP & 99.99 & 100.00 & 1.0000 & 11.6 \\
+\bottomrule
+\end{tabular}
+\end{table}

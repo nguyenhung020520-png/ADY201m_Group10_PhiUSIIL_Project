@@ -1,0 +1,8 @@
+feature_set,n_features,roc_auc_mean,caught_mean,caught_best,home_roc_auc_mean,home_caught_best
+S1 all features,50,0.99999,0.99997,1.0,0.99998,1.0
+S2 without similarity index,49,0.99988,0.99986,1.0,0.99989,1.0
+S3 address and similarity index,22,0.99987,0.99974,0.99985,0.99973,0.99966
+S4 address only,21,0.99841,0.99549,0.99651,0.99651,0.99177
+S5 address without TLD statistics,19,0.99823,0.99549,0.99644,0.996,0.99118
+S6 page only,28,0.99958,0.9975,0.99937,0.99952,0.99909
+S7 prefix blind,14,0.88626,0.69081,0.70144,0.71832,0.2602

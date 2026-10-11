@@ -1,0 +1,65 @@
+feature,nhom,auc,auc_tach,chieu
+URLSimilarityIndex,shortcut,0.0039,0.9961,nhỏ hơn thì lừa đảo
+LineOfCode,page,0.0097,0.9903,nhỏ hơn thì lừa đảo
+NoOfExternalRef,page,0.012,0.988,nhỏ hơn thì lừa đảo
+NoOfImage,page,0.0203,0.9797,nhỏ hơn thì lừa đảo
+NoOfSelfRef,page,0.0275,0.9725,nhỏ hơn thì lừa đảo
+NoOfJS,page,0.0291,0.9709,nhỏ hơn thì lừa đảo
+NoOfCSS,page,0.0423,0.9577,nhỏ hơn thì lừa đảo
+HasSocialNet,page,0.1053,0.8947,nhỏ hơn thì lừa đảo
+HasCopyrightInfo,page,0.1245,0.8755,nhỏ hơn thì lừa đảo
+HasDescription,page,0.1537,0.8463,nhỏ hơn thì lừa đảo
+pb_specials,prefix blind,0.8326,0.8326,lớn hơn thì lừa đảo
+NoOfOtherSpecialCharsInURL,address,0.8232,0.8232,lớn hơn thì lừa đảo
+LargestLineLength,page,0.1831,0.8169,nhỏ hơn thì lừa đảo
+SpacialCharRatioInURL,address,0.8071,0.8071,lớn hơn thì lừa đảo
+pb_letter_ratio,prefix blind,0.1964,0.8036,nhỏ hơn thì lừa đảo
+pb_path_length,prefix blind,0.7985,0.7985,lớn hơn thì lừa đảo
+pb_has_path,prefix blind,0.7985,0.7985,lớn hơn thì lừa đảo
+DomainTitleMatchScore,page,0.208,0.792,nhỏ hơn thì lừa đảo
+HasSubmitButton,page,0.2118,0.7882,nhỏ hơn thì lừa đảo
+pb_length,prefix blind,0.7804,0.7804,lớn hơn thì lừa đảo
+URLTitleMatchScore,page,0.2295,0.7705,nhỏ hơn thì lừa đảo
+IsResponsive,page,0.2313,0.7687,nhỏ hơn thì lừa đảo
+URLCharProb,address,0.2324,0.7676,nhỏ hơn thì lừa đảo
+NoOfiFrame,page,0.2454,0.7546,nhỏ hơn thì lừa đảo
+IsHTTPS,address,0.2456,0.7544,nhỏ hơn thì lừa đảo
+HasHiddenFields,page,0.2511,0.7489,nhỏ hơn thì lừa đảo
+NoOfEmptyRef,page,0.2545,0.7455,nhỏ hơn thì lừa đảo
+CharContinuationRate,address,0.2565,0.7435,nhỏ hơn thì lừa đảo
+NoOfLettersInURL,address,0.7416,0.7416,lớn hơn thì lừa đảo
+HasFavicon,page,0.2602,0.7398,nhỏ hơn thì lừa đảo
+URLLength,address,0.7317,0.7317,lớn hơn thì lừa đảo
+pb_digits,prefix blind,0.7282,0.7282,lớn hơn thì lừa đảo
+NoOfDegitsInURL,address,0.7277,0.7277,lớn hơn thì lừa đảo
+DegitRatioInURL,address,0.7258,0.7258,lớn hơn thì lừa đảo
+pb_letters,prefix blind,0.7254,0.7254,lớn hơn thì lừa đảo
+pb_digit_ratio,prefix blind,0.7243,0.7243,lớn hơn thì lừa đảo
+pb_host_dots,prefix blind,0.7192,0.7192,lớn hơn thì lừa đảo
+LetterRatioInURL,address,0.7146,0.7146,lớn hơn thì lừa đảo
+pb_host_length,prefix blind,0.6928,0.6928,lớn hơn thì lừa đảo
+Robots,page,0.3245,0.6755,nhỏ hơn thì lừa đảo
+HasTitle,page,0.3392,0.6608,nhỏ hơn thì lừa đảo
+Pay,page,0.3453,0.6547,nhỏ hơn thì lừa đảo
+pb_hyphens,prefix blind,0.6487,0.6487,lớn hơn thì lừa đảo
+DomainLength,address,0.624,0.624,lớn hơn thì lừa đảo
+TLDLegitimateProb,address,0.3912,0.6088,nhỏ hơn thì lừa đảo
+Bank,page,0.4364,0.5636,nhỏ hơn thì lừa đảo
+NoOfPopup,page,0.4548,0.5452,nhỏ hơn thì lừa đảo
+HasPasswordField,page,0.4574,0.5426,nhỏ hơn thì lừa đảo
+HasExternalFormSubmit,page,0.4653,0.5347,nhỏ hơn thì lừa đảo
+NoOfQMarkInURL,address,0.5305,0.5305,lớn hơn thì lừa đảo
+pb_equals,prefix blind,0.5273,0.5273,lớn hơn thì lừa đảo
+NoOfEqualsInURL,address,0.5268,0.5268,lớn hơn thì lừa đảo
+TLDLength,address,0.5261,0.5261,lớn hơn thì lừa đảo
+pb_tld_length,prefix blind,0.526,0.526,lớn hơn thì lừa đảo
+NoOfURLRedirect,page,0.5159,0.5159,lớn hơn thì lừa đảo
+Crypto,page,0.4847,0.5153,nhỏ hơn thì lừa đảo
+NoOfSelfRedirect,page,0.5152,0.5152,lớn hơn thì lừa đảo
+NoOfSubDomain,address,0.4855,0.5145,nhỏ hơn thì lừa đảo
+NoOfAmpersandInURL,address,0.5044,0.5044,lớn hơn thì lừa đảo
+IsDomainIP,address,0.5032,0.5032,lớn hơn thì lừa đảo
+pb_host_is_ip,prefix blind,0.503,0.503,lớn hơn thì lừa đảo
+HasObfuscation,address,0.5024,0.5024,lớn hơn thì lừa đảo
+NoOfObfuscatedChar,address,0.5024,0.5024,lớn hơn thì lừa đảo
+ObfuscationRatio,address,0.5024,0.5024,lớn hơn thì lừa đảo

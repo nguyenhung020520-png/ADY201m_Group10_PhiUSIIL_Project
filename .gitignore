@@ -1,0 +1,18 @@
+# Dataset: download from UCI (see README), not redistributed here
+Data/*.csv
+
+# Large files re-created by the notebooks (2 and 3)
+Outputs/phishing_model_table.parquet
+Outputs/phishing.duckdb
+
+# Python and Jupyter
+.venv/
+venv/
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# Operating system
+Thumbs.db
+desktop.ini
+.DS_Store

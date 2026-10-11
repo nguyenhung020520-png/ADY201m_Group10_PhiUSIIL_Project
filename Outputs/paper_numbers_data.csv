@@ -1,0 +1,14 @@
+paper_section,quantity,value
+3 Data,Rows x columns of PhiUSIIL_Phishing_URL_Dataset.csv,235795 x 56
+3 Data,"Duplicate URLs removed, rows kept","425, 235370"
+3 Data,Model table rows x columns,235370 x 89
+3 Data,"Legitimate, phishing URLs after cleaning","134850, 100520"
+3 Data,"Homepage-only URLs: all, legitimate, phishing","175363, 134850, 40513"
+3 Data,Phishing URLs with a path,60007
+3 Data,"Feature groups: similarity, address, page, prefix-blind","1, 21, 28, 14"
+3 Data,"TLD types: generic, country code, IP address","165858, 68876, 636"
+3 Data,"Registered domains: all, with more than one URL","173977, 6075"
+3 Data,"Seen TLDs (com, org, net): share of URLs %",58.72
+4 Descriptive findings,"Legitimate: starts https://www. %, HTTPS %, similarity = 100 %, median length after prefix, median lines of HTML","100.00, 100.00, 100.00, 15, 1105"
+4 Descriptive findings,"Phishing, homepage: starts https://www. %, HTTPS %, similarity = 100 %, median length after prefix, median lines of HTML","1.55, 5.61, 1.87, 15, 8"
+4 Descriptive findings,"Phishing, with path: starts https://www. %, HTTPS %, similarity = 100 %, median length after prefix, median lines of HTML","3.03, 78.50, 0.05, 35, 36"

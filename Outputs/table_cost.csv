@@ -1,0 +1,21 @@
+feature_set,model,size_kB,microseconds_per_address,caught,home_roc_auc
+S4 address only,Logistic,2.4824,1.1531,0.995,0.9963
+S4 address only,Linear SVM,2.3721,1.1022,0.9962,0.9957
+S4 address only,k-NN,24274.8467,119.8569,0.9947,0.9954
+S4 address only,Decision tree,30.0527,0.4305,0.9938,0.9955
+S4 address only,Random forest,20636.5908,2.8867,0.9955,0.997
+S4 address only,Extra trees,21990.5537,3.6899,0.9948,0.9966
+S4 address only,HistGB,405.3945,1.9209,0.9961,0.9972
+S4 address only,LightGBM,1025.9648,3.2413,0.9965,0.9974
+S4 address only,XGBoost,757.0752,2.2754,0.9959,0.9973
+S4 address only,Small MLP,92.1348,1.1294,0.9964,0.9967
+S7 prefix blind,Logistic,2.085,0.5511,0.6577,0.6633
+S7 prefix blind,Linear SVM,1.9746,0.6097,0.658,0.6641
+S7 prefix blind,k-NN,19702.9512,1136.5769,0.6894,0.7082
+S7 prefix blind,Decision tree,61.7627,0.5205,0.7012,0.7354
+S7 prefix blind,Random forest,17648.7432,3.1283,0.7014,0.7356
+S7 prefix blind,Extra trees,10271.0449,3.5727,0.6972,0.7302
+S7 prefix blind,HistGB,409.7881,1.8594,0.7008,0.7368
+S7 prefix blind,LightGBM,1025.1289,3.187,0.7014,0.7369
+S7 prefix blind,XGBoost,767.5947,2.5052,0.7014,0.7371
+S7 prefix blind,Small MLP,81.0439,0.9323,0.6995,0.7357

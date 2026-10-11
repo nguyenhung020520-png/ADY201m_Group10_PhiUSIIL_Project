@@ -1,0 +1,11 @@
+model,model_errors,rule_errors,model_right_rule_wrong,rule_right_model_wrong,chi2,p,p_holm
+Logistic,5,132,130,3,119.368421,0.0,0.0
+Linear SVM,4,132,130,2,122.189394,0.0,0.0
+k-NN,46,132,127,41,43.005952,0.0,0.0
+Decision tree,1,132,132,1,127.067669,0.0,0.0
+Random forest,1,132,132,1,127.067669,0.0,0.0
+Extra trees,3,132,130,1,125.068702,0.0,0.0
+HistGB,0,132,132,0,130.007576,0.0,0.0
+LightGBM,0,132,132,0,130.007576,0.0,0.0
+XGBoost,1,132,132,1,127.067669,0.0,0.0
+Small MLP,3,132,131,2,123.18797,0.0,0.0

@@ -1,0 +1,17 @@
+feature_set,model,roc_auc_seen,roc_auc_unseen,caught_seen,caught_unseen,false_alarm_seen,false_alarm_unseen
+S1 all features,LightGBM,1.0,1.0,1.0,1.0,0.00981,0.03055
+S1 all features,Logistic,1.0,1.0,0.99998,1.0,0.0102,0.00447
+S1 all features,Random forest,1.0,1.0,1.0,1.0,0.00953,0.07414
+S1 all features,Small MLP,1.0,1.0,1.0,1.0,0.01015,0.00728
+S4 address only,LightGBM,0.99821,0.99837,0.99493,0.99685,0.01002,0.08789
+S4 address only,Logistic,0.99837,0.99837,0.99383,0.99623,0.01155,0.08825
+S4 address only,Random forest,0.99828,0.99782,0.99421,0.99687,0.01022,0.18424
+S4 address only,Small MLP,0.99836,0.99846,0.99538,0.99628,0.00943,0.07357
+S5 address without TLD statistics,LightGBM,0.99805,0.99847,0.99546,0.99721,0.00813,0.15513
+S5 address without TLD statistics,Logistic,0.9984,0.99819,0.99378,0.99642,0.01038,0.13111
+S5 address without TLD statistics,Random forest,0.99829,0.99784,0.99438,0.99668,0.01034,0.15933
+S5 address without TLD statistics,Small MLP,0.99836,0.99819,0.99466,0.99692,0.00989,0.18315
+S7 prefix blind,LightGBM,0.85997,0.8488,0.67228,0.79277,0.01009,0.38737
+S7 prefix blind,Logistic,0.85474,0.83684,0.67073,0.79413,0.01033,0.43495
+S7 prefix blind,Random forest,0.86037,0.84711,0.67236,0.79232,0.00999,0.38745
+S7 prefix blind,Small MLP,0.86059,0.84602,0.67228,0.7943,0.01006,0.43548
